@@ -37,7 +37,7 @@ I am a transitioning professional skilled in data analysis and machine learning,
 - Self-Taught courses: AWS, C/C++ Programming
 
 ## Projects
-| Project                           | Problems                                                        | Methodology                                                                                    |
+| Project                           | Methodolgy                                                        |Solution                                                                               |
 |-----------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Field Officers Tracking and Management system | Developed a database for field officers based on tracking data, login activity, and daily reports | Enhanced productivity, optimization, and feedback mechanisms for field officers                |
 | E-Commerce Sales Analysis         | Analyzed e-commerce sales data to identify customer segments and popular products | Leveraged Pandas, Matplotlib, and Seaborn in Python to identify revenue-boosting opportunities  |
